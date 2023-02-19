@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharunraj-s&show_icons=true&locale=en&theme=transparent" alt="Tharunraj-s" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-s&layout=compact)](https://github.com/Tharunraj-s/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-s&theme=transparent&langs_count=8)](https://github.com/Tharunraj-s/github-readme-stats)
 
 
 
