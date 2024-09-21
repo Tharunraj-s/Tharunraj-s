@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there 👋, I'm Tharunraj S</h1>
+<h1 align="center"># Hi there 👋, I'm Tharunraj Singaravelu</h1>
 
 <h3 align="center">Currently pursuing Masters in Data Science and Statistical learning at University of limerick. Completed Bachelor of Computer Science and Engineering at SRM IST. Bringing forth a motivated attitude and a variety of powerful skills looking to apply extensive skills in Data Science and Machine learning and Seeking more experience in computer vision and data analytics.</h3>
 <h3 align="center">Skilled in Python, Computer vision and Machine learning. Intermediate programer in HTML CSS and JS. Adept in various social media platforms and office technology programs.<h3><br>
