@@ -3,7 +3,7 @@
 <h3 align="center">ML / AI Engineer | Statistical Learning Specialist</h3>
 
 <p align="center">
-Building intelligent systems with Machine Learning, Deep Learning, and Statistical Modeling.<br>
+Building intelligent systems with Computer Vision, Machine Learning, and Statistical Modeling.<br>
 Focused on scalable AI solutions and real-world deployment.
 </p>
 
@@ -15,14 +15,14 @@ Focused on scalable AI solutions and real-world deployment.
 - 🎓 B.Tech in Computer Science & Engineering – SRM IST  
 - 🤖 ML / AI Engineer with strong statistical foundation  
 - 🇮🇪 Targeting ML/AI Engineering roles in Ireland  
-- 🔬 Experience in Healthcare ML & Predictive Modeling  
-- 🛡 Background in IoT Security & Vulnerability Analysis  
+- 🔬 Experience in Computer Vision, Healthcare ML & Predictive Modeling    
 - 📊 Strong understanding of Generalization, Model Evaluation & Optimization  
 
 ---
 
 ## 🧠 Core Expertise
 
+- Computer Vision
 - Machine Learning Model Development  
 - Deep Learning (Neural Networks, Computer Vision)  
 - Statistical Learning & Generalization Theory  
