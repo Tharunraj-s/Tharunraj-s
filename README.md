@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharunraj Singaravelu</h1>
 
-<h3 align="center">ML / AI Engineer | Statistical Learning Specialist</h3>
+<h3 align="center">Computer Vision | ML Engineer | Statistical Learning Specialist</h3>
 
 <p align="center">
 Building intelligent systems with Computer Vision, Machine Learning, and Statistical Modeling.<br>
